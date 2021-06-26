@@ -594,16 +594,22 @@ export class SidebarMenuComponent implements OnInit {
       ],
     },
     {
-      name: "NOTIFICATION",
-      text: "NOTIFICATION",
-      title: "NOTIFICATION",
+      name: "VMS",
+      text: "VMS",
+      title: "VMS",
       subMenus: [
         {
-          name: "OEMInvoices",
-          text: "Invoices",
-          title: "Manage the system's OEM Invoices",
-          path: "/clients/oem/invoices",
+          name: "Partner",
+          text: "Partner",
+          title: "Manage partners",
+          path: "/home/partner",
         },
+        {
+          name: "Jobs",
+          text: "Jobs",
+          title: "Manage Jobs",
+          path: "/home/listJobs",
+        }
       ],
     },
     {

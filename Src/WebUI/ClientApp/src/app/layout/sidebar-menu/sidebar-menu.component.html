@@ -1,105 +1,171 @@
-<div class="wrapper">
+<nav class="sidebar-menu">
+    <button
+        class="navbar-toggler"
+        data-toggle="collapse"
+        data-target=".navbar-collapse"
+        aria-label="Toggle navigation"
+        [attr.aria-expanded]="isExpanded"
+        (click)="toggle()"
+    >
+        <svg width="26" height="26" viewBox="0 0 26 26">
+            <path
+                d="M 18.976563 23 L 22 20.984375 L 16.480469 13 L 22 5.015625 L 18.976563 3 L 11.980469 13 Z M 10.960938 23 L 14.019531 20.984375 L 8.5 13 L 14.019531 5.015625 L 10.960938 3 L 4 13 Z"
+            ></path>
+        </svg>
+    </button>
 
-	<div class="top_navbar">
-		<div class="logo">
-			<a href="#">Soft Mash</a>
-		</div>
-		<div class="top_menu">
-			<div class="home_link">
-				<a href="#">
-					<span class="icon"><i class="fas fa-home"></i></span>
-					<span>Home</span>
-				</a>
-			</div>
-			<div class="right_info">
-				<div class="icon_wrap">
-					<div class="icon">
-						<i class="fas fa-bell"></i>
-					</div>
-				</div>
-				<div class="icon_wrap">
-					<div class="icon">
-						<i class="fas fa-cog"></i>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+    <ul class="sidebar-menu__links">
+        
+           
+       
+        <ng-container *ngFor="let menuItem of menu">
+            <li
+                class="menu-item"
+                *ngIf="admin || permissions.indexOf(menuItem.name) != -1"
+            >
+                <ng-container
+                    *ngIf="!!menuItem.subMenus && menuItem.name != 'VMS'"
+                >
+                    <a
+                        class="menu-link"
+                        (click)="
+                            expansion =
+                                expansion != menuItem.name ? menuItem.name : ''
+                        "
+                        title="{{ menuItem.title }}"
+                    >
+                        <ng-container
+                            *ngTemplateOutlet="
+                                iconTemplate;
+                                context: { icon: menuItem.name }
+                            "
+                        ></ng-container>
+                        <span>{{ menuItem.text }}</span>
+                    </a>
 
-	<div class="main_body">
-		
-		<div class="sidebar_menu">
-	        <div class="inner__sidebar_menu">
-	        	
-	        	<ul>
-		          <li>
-		            <a href="#">
-		              <span class="icon">
-		              	<i class="fas fa-border-all"></i></span>
-		              <span class="list">Dashboard</span>
-		            </a>
-		          </li>
-		          <li>
-		            <a href="#" class="active">
-		              <span class="icon"><i class="fas fa-chart-pie"></i></span>
-		              <span class="list">Charts</span>
-		            </a>
-		          </li>
-		          <li>
-		            <a href="#">
-		              <span class="icon"><i class="fas fa-address-book"></i></span>
-		              <span class="list">Contact</span>
-		            </a>
-		          </li>
-		          <li>
-		            <a href="#">
-		              <span class="icon"><i class="fas fa-address-card"></i></span>
-		              <span class="list">About</span>
-		            </a>
-		          </li>
-		          <li>
-		            <a href="#">
-		              <span class="icon"><i class="fab fa-blogger"></i></span>
-		              <span class="list">Blogs</span>
-		            </a>
-		          </li>
-		          <li>
-		            <a href="#">
-		              <span class="icon"><i class="fas fa-map-marked-alt"></i></span>
-		              <span class="list">Maps</span>
-		            </a>
-		          </li>
-		        </ul>
+                    <ul
+                        class="sidebar-menu__links submenu collapse"
+                        [ngClass]="{ show: expansion == menuItem.name }"
+                    >
+                        <ng-container
+                            *ngFor="let subMenuItem of menuItem.subMenus"
+                        >
+                            <li
+                                class="menu-item"
+                                *ngIf="
+                                    admin ||
+                                    permissions.indexOf(subMenuItem.name) != -1
+                                "
+                            >
+                                <a
+                                    class="menu-link"
+                                    href="{{ baseUrl }}{{ subMenuItem.path }}"
+                                    title="{{ subMenuItem.title }}"
+                                >
+                                    <span>{{ subMenuItem.text }}</span>
+                                </a>
+                            </li>
+                        </ng-container>
+                    </ul>
+                </ng-container>
+                
+                <ng-container
+                    *ngIf="!menuItem.subMenus && menuItem.name != 'VMS'"
+                >
+                    <a
+                        class="menu-link"
+                        href="{{ baseUrl }}{{ menuItem.path }}"
+                        title="{{ menuItem.title }}"
+                    >
+                        <ng-container
+                            *ngTemplateOutlet="
+                                iconTemplate;
+                                context: { icon: menuItem.name }
+                            "
+                        ></ng-container>
+                        <span>{{ menuItem.text }}</span>
+                    </a>
+                </ng-container>
 
-		        <div class="hamburger">
-			        <div class="inner_hamburger">
-			            <span class="arrow">
-			                <i class="fas fa-long-arrow-alt-left"></i>
-			                <i class="fas fa-long-arrow-alt-right"></i>
-			            </span>
-			        </div>
-			    </div>
+                
+                
+                <ng-container *ngIf="menuItem.name == 'VMS'">
+                    <a class="menu-link">
+                        <img
+                        class="icon"
+                        src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-oem.png"
+                    />
+                        <span>VMS</span>
+                    </a>
+                    <ul class="sidebar-menu__links submenu collapse show">
+            
+                        <li class="menu-item" [routerLinkActive]="['active']">
+                            <a class="menu-link" [routerLink]="['/home/listJobs']">
+                                <span title="Manage Jobs">List Jobs</span>
+                            </a>
+                        </li>
+                        <li class="menu-item" [routerLinkActive]="['active']">
+                            <a class="menu-link" [routerLink]="['/home/partner']">
+                                <span title="Manage Partners">Partners</span>
+                            </a>
+                        </li>
+                        <li class="menu-item" [routerLinkActive]="['active']">
+                            <a class="menu-link" [routerLink]="['/home/invoiceList']">
+                                <span title="Invoice Listing">Invoice List</span>
+                            </a>
+                        </li>
+                        
+                        
+                    </ul>
+                </ng-container>
 
-	        </div>
-	    </div>
+                
+            </li>
+        </ng-container>
+        
+    </ul>
+</nav>
 
-	    <!-- <div class="container">
-	    	<div class="item_wrap">
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    	</div>
-	    	<div class="item_wrap">
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    	</div>
-	    	<div class="item_wrap">
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    	</div>
-	    	<div class="item_wrap">
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    		<div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum omnis nihil aut aperiam adipisci suscipit ullam sunt saepe cupiditate quam distinctio officiis tempore laudantium, animi amet corrupti ratione est commodi! Sunt tempora quod magnam optio, reiciendis veritatis, necessitatibus eos molestias facilis reprehenderit maiores ipsum quaerat placeat laborum, a aspernatur corporis.</div>
-	    	</div>
-	    </div> -->
-	</div>
-</div>
+<ng-template #iconTemplate let-icon="icon">
+    <ng-container [ngSwitch]="icon">
+        <ng-container *ngSwitchCase="'AssetMgmnt'">
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-am.png"
+            />
+        </ng-container>
+        <ng-container *ngSwitchCase="'HarvestMgmnt'">
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-harvest.png"
+            />
+        </ng-container>
+        <ng-container *ngSwitchCase="'OEM'">
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-oem.png"
+            />
+        </ng-container>
+        <ng-container *ngSwitchCase="'Admin'">
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-system-admin.png"
+            />
+        </ng-container>
+        <ng-container *ngSwitchCase="'Logs'">
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav-system-logs3.png"
+            />
+        </ng-container>
+        <ng-container *ngSwitchCase="'ProductCatalog'"></ng-container>
+        <ng-container *ngSwitchDefault>
+            <img
+                class="icon"
+                src="https://tracktechdevelopment.blob.core.windows.net/static-content/tracktech/css/images/navigation-icons/set-two/nav{{
+                    kebabCase(icon)
+                }}.png"
+            />
+        </ng-container>
+    </ng-container>
+</ng-template>
