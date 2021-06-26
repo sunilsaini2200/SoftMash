@@ -1,0 +1,442 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+html {
+  font-size: 10px;
+  margin-top: 67px;
+ 
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.6rem;
+  height: 100%;
+  overflow: hidden;
+
+  &.modal-open {
+    padding-right: 0 !important;
+  }
+}
+
+.main-content {
+  margin-left: 220px;
+  padding-top: 1em;
+  position: relative;
+}
+
+.modal-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.tooltip {
+  pointer-events: none;
+  font-size: 1.1rem;
+}
+
+svg-icon svg {
+  max-width: 24px;
+  max-height: 24px;
+  width: auto;
+  height: auto;
+}
+
+svg-icon[name="api"] {
+  //fill: red;
+}
+
+//*****************************************************************************
+// Buttons
+//*****************************************************************************
+
+.btn {
+  font-size: 1.4rem;
+}
+
+//*****************************************************************************
+// Tables
+//*****************************************************************************
+
+.table {
+  thead th {
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: #424242;
+    color: #fff;
+    vertical-align: middle;
+  }
+
+  td {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  &.table-striped td {
+    border: 0;
+  }
+
+  &.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #e6e6f2;
+  }
+
+  &.table-striped tbody tr:nth-of-type(even) {
+    background-color: #f0f0fc;
+  }
+
+  &.table-striped tbody tr:hover {
+    background-color: #d3d3d3;
+  }
+}
+
+/* I need to clean these up I know... */
+
+.btn-primary {
+  background: #379069;
+  color: #fff;
+  border-color: #379069;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: #3fa67a;
+  border-color: #3fa67a;
+}
+
+.navbar-toggler {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.navbar-toggler svg {
+  fill: #aaaaaa;
+}
+
+thead button {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  outline: 0;
+}
+
+thead button:focus {
+  outline: 0;
+}
+
+button:focus {
+  outline: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.header-nav {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+.main-content {
+  overflow-y: scroll;
+  height: calc(100% - 47px);
+  position: relative;
+  top: 47px;
+}
+
+.row {
+  margin-bottom: 1.5em;
+}
+
+.header-right {
+  font-size: 1.3rem;
+}
+
+.header-links {
+  margin: 0;
+  padding: 3px 8px 0 0;
+  list-style: none;
+}
+
+.header-links i {
+  font-size: 1.8rem;
+}
+
+.header-links .action--logout:hover,
+.header-links .action--logout:focus {
+  color: #d9534f;
+}
+
+.header-links a {
+  color: #404040;
+}
+
+.card {
+  border: 1px solid #146441;
+  border-radius: 0;
+  height: 100%;
+}
+
+.card.has-table .card-body {
+  padding: 0;
+}
+
+.card table {
+  margin-bottom: 0;
+}
+
+.card thead th {
+  border: 0;
+}
+
+.card-header {
+  background: #146441;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.card-header:first-child {
+  border-radius: 0;
+}
+
+.actions-column {
+  white-space: nowrap;
+  text-align: right;
+}
+
+th.actions-column svg {
+  fill: #fff;
+  width: 16px;
+  height: 16px;
+}
+
+.actions-column button {
+  border: none;
+  background: transparent;
+}
+
+.actions-column svg {
+  width: 16px;
+  height: 16px;
+}
+
+.thead-sort {
+  line-height: 1.2;
+}
+
+.thead-sort__sorter {
+  position: absolute;
+  right: -4px;
+  top: 50%;
+  transform: translateY(-55%);
+}
+
+.thead-sort svg {
+  width: 16px;
+  height: 16px;
+  fill: #fff;
+}
+
+th.active-sorter {
+  position: relative;
+}
+
+.page-loader {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.table-footer-actions {
+  background: #e6e6f2;
+  text-align: center;
+}
+
+.table-footer-actions td {
+  position: relative;
+}
+
+.table-footer-actions button {
+  background: transparent;
+  border: none;
+}
+
+.table-footer-actions .icon--next,
+.table-footer-actions .icon--previous,
+.table-footer-actions .icon--first,
+.table-footer-actions .icon--last {
+  fill: #379069;
+}
+
+.table-footer-actions .inline-loading {
+  position: absolute;
+  left: 50%;
+  background: #e6e6f2;
+  font-weight: 600;
+  padding: 0.5em;
+  transform: translateX(-50%);
+  width: 118px;
+  top: 5px;
+}
+
+.page-header-actions {
+  margin-bottom: 1.5em;
+}
+
+.card {
+  margin-bottom: 1.5em;
+}
+
+.card-body {
+  font-size: 1.4rem;
+}
+
+[class^="col"] .card {
+  margin-bottom: 0;
+}
+
+td.table-footer-tools {
+  text-align: right;
+  vertical-align: middle;
+}
+
+.modal {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.form-control {
+  font-size: inherit;
+}
+
+.modal .close {
+  font-size: 2.4rem;
+}
+
+.btn-primary:focus {
+  background-color: #3fa67a;
+  border-color: #3fa67a;
+  box-shadow: 0 0 0 0.2rem rgba(63, 166, 122, 0.5);
+}
+
+.btn-primary:active {
+  background-color: #3fa67a;
+  border-color: #3fa67a;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  border-color: #3fa67a;
+  background-color: #3fa67a;
+  box-shadow: 0 0 0 0.2rem rgba(63, 166, 122, 0.5);
+}
+
+.custom-select {
+  font-size: inherit;
+}
+
+.custom-control-label::before {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+.custom-control-label::after {
+  width: 1.4rem;
+  height: 1.4rem;
+  font-size: inherit;
+}
+
+.card-actions {
+  text-align: right;
+  display: block;
+}
+
+.card-actions .btn {
+  margin-left: 1em;
+}
+
+.modal-footer .btn {
+  margin-left: 1em;
+}
+
+@media (min-width: 576px) {
+  .modal--wide {
+    max-width: 1200px;
+  }
+}
+
+.app-common-nav-bar .nav-link.active {
+  background-color: #146441 !important;
+}
+
+.app-common-nav-bar .nav-link {
+  color: #146441;
+}
+
+.app-common-nav-bar {
+  font-size: 1.4rem;
+}
+
+.app-common-nav-bar > div {
+  margin-bottom: 1.5em;
+}
+
+.app-common-nav-bar .nav-link.active {
+  border-color: #146441;
+  color: #fff;
+}
+
+.card-top-actions {
+  margin-bottom: 1em;
+}
+
+.sidebar-menu {
+  z-index: 200;
+}
+
+.page-loader {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 9999999999;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.mat-spinner {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.mat-progress-spinner circle,
+.mat-spinner circle {
+  stroke: #8ab4b4;
+}
+
+.custmTabset li.active.nav-item a {
+  background: #146441 !important;
+  border: 0;
+  color: #ffffff;
+}
+
+.custmTabset li.nav-item a {
+  color: #146441;
+  font-size: 14px;
+}
+.custom-icon,
+.custom-icon:hover {
+  color: black;
+  cursor: pointer;
+  font-size: 14px;
+  padding-right: 7px;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}

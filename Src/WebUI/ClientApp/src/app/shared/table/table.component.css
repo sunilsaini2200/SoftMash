@@ -1,0 +1,26 @@
+.fa-edit{
+  cursor: pointer;
+  color: #fff;
+}
+.edit-wrapper{    
+  background-color: #579a5e;
+  padding: 1px 3px;
+  border-radius: 50%;
+  margin-right: 5px;
+  float: right;
+  height: 21px;
+  width: 21px;
+}
+.delete-wrapper{
+  background-color: #e22a37;
+  padding: 0px 5px;
+  border-radius: 50%;
+  margin-right: 5px;
+  float: right;
+  height: 21px;
+  width: 21px;
+}
+.fa-trash-o{
+  cursor: pointer;
+  color: #fff;
+}

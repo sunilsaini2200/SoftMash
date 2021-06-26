@@ -1,0 +1,548 @@
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\testhost.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\testhost.exe
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.deps.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.runtimeconfig.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.runtimeconfig.dev.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ref\Application.IntegrationTests.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.AssemblyInfo.cs
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csproj.CopyComplete
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\ref\Application.IntegrationTests.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.genruntimeconfig.cache
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.Views.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.Views.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\appsettings.json
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.exe
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\MediatR.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Moq.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Respawn.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Domain.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.dll
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Domain.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\CS\source\repos\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nswag.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csprojAssemblyReference.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.AssemblyInfoInputs.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.AssemblyInfo.cs
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csproj.CoreCompileInputs.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\testhost.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.Views.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.Views.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.deps.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.runtimeconfig.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\appsettings.Development.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\appsettings.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nswag.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.exe
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\testhost.exe
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.deps.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.runtimeconfig.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.runtimeconfig.dev.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ref\Application.IntegrationTests.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.IntegrationTests.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\AutoMapper.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Castle.Core.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\CsvHelper.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentAssertions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentValidation.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Humanizer.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityModel.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\MediatR.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Moq.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NJsonSchema.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Core.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\nunit.framework.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Respawn.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\YamlDotNet.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Domain.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Infrastructure.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\WebUI.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Application.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Domain.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\bin\Debug\net5.0\Infrastructure.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.csproj.CopyComplete
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\ref\Application.IntegrationTests.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Tests\Application.IntegrationTests\obj\Debug\net5.0\Application.IntegrationTests.genruntimeconfig.cache

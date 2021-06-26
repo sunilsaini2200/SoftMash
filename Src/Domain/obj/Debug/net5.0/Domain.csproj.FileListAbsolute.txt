@@ -1,0 +1,23 @@
+C:\Users\CS\source\repos\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\CS\source\repos\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\CS\source\repos\SoftMash\Src\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\CS\source\repos\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\CS\source\repos\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Clean Architecture -Asp.netCore with Angular\SoftMash\Src\Domain\obj\Debug\net5.0\Domain.pdb
